@@ -1,0 +1,2 @@
+# Kotlin
+I have made the exciting decision to pursue my passion for Android development by learning Kotlin from scratch, even though I am already comfortable with writing Java, Python, and Golang. As part of my personal growth plan, I have committed myself to write Kotlin code every day and regularly pushing it to my Git repository. I invite you to join me on this journey, and let's enjoy the ride together!
