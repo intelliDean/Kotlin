@@ -1,3 +1,5 @@
+package functions
+
 fun main() {
     checkGender(Gender.FEMALE, "Sukura")
 }

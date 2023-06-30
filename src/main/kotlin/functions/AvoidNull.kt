@@ -1,3 +1,5 @@
+package functions
+
 fun avoidNull () {
     var name: String? = "Michael"
     var name2: String? = null

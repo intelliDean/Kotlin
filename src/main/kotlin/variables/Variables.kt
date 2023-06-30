@@ -1,3 +1,5 @@
+package variables
+
 fun variables() {
     val name = "Dean"
     val age = 18

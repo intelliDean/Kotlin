@@ -1,3 +1,5 @@
+package functions
+
 fun main() {
     default(12)
 }

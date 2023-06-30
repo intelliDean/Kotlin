@@ -1,3 +1,5 @@
+package functions
+
 import java.math.BigDecimal
 
 fun main() {

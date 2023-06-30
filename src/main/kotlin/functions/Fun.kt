@@ -1,3 +1,5 @@
+package functions
+
 fun function(name: String, age: Int) {
     var name1 = name    //parameter are immutable. You can assign them to be changed
     name1 = "James"

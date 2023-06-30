@@ -1,3 +1,5 @@
+package variables
+
 fun switch() {
     val number = 23
     when (number) {

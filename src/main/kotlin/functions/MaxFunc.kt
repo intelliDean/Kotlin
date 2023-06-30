@@ -1,3 +1,5 @@
+package functions
+
 fun main() {
     println(
         max(23, 65)

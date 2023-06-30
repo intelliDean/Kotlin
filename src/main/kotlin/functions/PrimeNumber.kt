@@ -1,3 +1,5 @@
+package functions
+
 import java.util.*
 import kotlin.math.sqrt
 

@@ -1,3 +1,5 @@
+package functions
+
 fun ifStatement() {
     val name = "Jordan"
     val age = 12
